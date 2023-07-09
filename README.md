@@ -5,7 +5,7 @@
 
 *  Install Node
 *  Install all the required pacakges mentioned in the package.json using the command npm install package.json
-*  make a .env file in root directory and enter your GOOGLE_CLIENT_ID,GOOGLE_CLIENT_SECRET from Google OAuth2.0 credentials, PORT= 3000(or where you 
+*  Create environment variables by making a .env file in root directory and enter your GOOGLE_CLIENT_ID,GOOGLE_CLIENT_SECRET from Google OAuth2.0 credentials, PORT= 3000(or where you 
    want to run), dbURI from MongoDB Atlas , cookieKey= random string
 
 # Tech Stacks Used
