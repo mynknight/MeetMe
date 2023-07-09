@@ -1,5 +1,5 @@
 # Gmeet-clone
- MeetMe is a clone of popular video confrencing website GMeet
+ MeetMe is a clone of popular video conferencing website GMeet
 
 # Tech Stacks Used
 *  HTML
